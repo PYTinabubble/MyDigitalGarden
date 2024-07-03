@@ -1,5 +1,6 @@
 ---
-Priority: "2"
+draft: false
+tags:
 ---
 # Paramètre électriques
 
