@@ -1,4 +1,8 @@
-# Fonction =QUERY dans GoogleSheet
+---
+title: GoogleSheet =QUERY
+draft: false
+---
+# GoogleSheet =Query
 
 Sources :
 
