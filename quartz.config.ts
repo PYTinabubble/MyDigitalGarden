@@ -11,11 +11,9 @@ const config: QuartzConfig = {
     pageTitle: "🪴 PYT's Garden",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "pytinabubble.github.io/MyDigitalGarden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
