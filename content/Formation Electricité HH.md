@@ -1,6 +1,8 @@
 ---
+title: Formation électricité
 draft: false
 tags:
+  - dalkia
 ---
 # Paramètre électriques
 
