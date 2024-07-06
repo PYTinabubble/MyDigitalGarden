@@ -4,19 +4,6 @@ draft: false
 tags:
   - dalkia
 ---
-
-## Mise en place
-
-## But du jeu
-
-## Explications
-
-### Fin du jeu
-
-## Extensions 
----
-Priority: "3"
----
 **Besoins thermiques : détermination des puissances**
 coefficient de déperdition global noté G qui s’exprime en W / °C/ m3 chauffés. L’intérêt de ce coefficient est de quantifier la puissance de chauffage requise afin de maintenir une température intérieure pour une température extérieure donnée. Ainsi, **pour un bâtiment de 3 000 m3** de G connu (0,8 W/°C/m3), qui a une température de non chauffage (TNC) de 21°C alors qu’il fait 5°C à l’extérieur, i l faut une puissance utile de chauffage de : Pour 5°C extérieur, P [en Watt]=G [en W/°C/m3] * V [m3] *(TNC [°C] – T extérieure [°C]) P=0,8*3 000*(21-5)=38 400 W P=38,4 kW
 
