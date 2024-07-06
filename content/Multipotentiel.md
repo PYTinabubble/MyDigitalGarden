@@ -28,6 +28,6 @@ Si les multipotentiels sont des touche-à-tout qui n’ont pas forcément le bag
 Du fait de leur profil, on retrouve plutôt les personnes multipotentielles sur des fonctions support : par exemple dans les ressources humaines ou la gestion de projets. « Il y a également beaucoup de multipotentiels chez les [[Slasheurs]] », confie Sonia Valente
 
 Voir aussi :
-- [TedX talk d’Emilie Wapnic](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling)k intitulé « pourquoi certains d’entre nous n’avons pas de vocation ? ».
+- [TedX talk d’Emilie Wapnick](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling) intitulé « pourquoi certains d’entre nous n’avons pas de vocation ? ».
 - TEDx Christophe HERMANNS
 - TEDx Myriam OGIER
