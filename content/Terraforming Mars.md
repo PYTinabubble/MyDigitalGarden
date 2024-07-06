@@ -11,7 +11,6 @@ interactions : ★★☆☆☆
 score : ★★★☆☆
 tags : boardgame, draft, deckbuilding, tile-placement, management-ressources, engine-building
 ---
-
 ## Mise en place
 Plateau avec les 3 objectifs (Oceans, Oxygène et Température)
 Chaque joueur reçoit, un plateau joueur, les cubes de sa couleur, une corporation, 10 cartes projet.

@@ -1,12 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome PYT's mess
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-
-[[QueryFunction]]
-[[Formation Electricité HH]]
-[[Google Font dans Sass]]
 

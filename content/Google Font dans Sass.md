@@ -4,8 +4,6 @@ draft: false
 tags:
   - code
 ---
-# Liaisonner Google Font dans Sass
-
 ## Récupérer les polices
 
 Dans l'```index.html```, dans la balise ```<head>``` (toujours en dessous du title) intégrer une balise

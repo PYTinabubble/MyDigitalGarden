@@ -1,6 +1,8 @@
 ---
 title: GoogleSheet =QUERY
 draft: false
+tags:
+  - GoogleSheet
 ---
 # GoogleSheet =Query
 

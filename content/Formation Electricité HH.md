@@ -3,8 +3,9 @@ title: Formation électricité
 draft: false
 tags:
   - dalkia
+  - formation
 ---
-# Paramètre électriques
+## Paramètre électriques
 
 Pour démarrer une étude élec
 1. Plan GC du bâtiment
