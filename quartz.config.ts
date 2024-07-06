@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 PYT's Garden",
+    pageTitle: "🤹‍♂️ PYT's Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "fr-FR",
     baseUrl: "pytinabubble.github.io/MyDigitalGarden",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "assets"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
