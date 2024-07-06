@@ -8,7 +8,7 @@ tags:
 ---
 # Famille
 
-![[Revit_familles.excalidraw]]
+![[Revit_familles.excalidraw.png]]
 
 **Type** : je modifie les caractéristiques propres à l'objet.
 **Catégorie** : je modifie les caracteristiques de tous les objets de la même catégorie
@@ -630,7 +630,7 @@ Attention de bien finir les 16 marches sans quoi l'escalier n'atteint pas le niv
 Une [[REVIT_Famille|famille]] est çoncu pour s'intégrer à un élément (mur, toit,... par exemple)
 Peut également être inséré sur un plan de construction
 
-![[REVIT_Escalier.excalidraw]]
+![[REVIT_Escalier.excalidraw.png]]
 
 Créer une zone de coupe autour de la séléction :
 - séléctionner les objets 
