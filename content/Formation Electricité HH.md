@@ -47,25 +47,25 @@ Enedis gère la partie 20 kV
 ### Raccordement
 #### Si la puissance est < 36 kVA
 
-On parle de raccordement à puissance ==limitée== (ancien tarif bleu)
+On parle de raccordement à puissance **limitée** (ancien tarif bleu)
 - Raccordement en BT sous 400V : 3P+N en régime de neutre TT (triphasé)
 - Raccordement en BT sous 230V : P+N en régime de neutre TT (monophasé)
 
 #### Si la puissance est 36kVA < P < 250kVA :
 
-On parle de raccordement à puissance ==surveillée== (ancien tarif jaune)
+On parle de raccordement à puissance **surveillée** (ancien tarif jaune)
 - Raccordement en BT sous 400V : 3P+N en régime de neutre TT
 non surveillé : tu peux dépasser mais tu n'es pas limité tu paies le surplus 
 
 #### Si la puissance est = 250kVA :
 
-On parle de raccordement à puissance ==surveillée== (ancien tarif jaune ou tarif vert)
+On parle de raccordement à puissance **surveillée** (ancien tarif jaune ou tarif vert)
 - Raccordement en BT sous 400V : 3P+N en régime de neutre TT
 - Raccordement en HTA sous 15kV ou 20kV : 3P Obligation de mettre un poste HT et un transformateur.
 
 #### Si la puissance est > ou = 250kVA :
 
-On parle de raccordement à puissance ==surveillée== (ancien tarif vert)
+On parle de raccordement à puissance **surveillée** (ancien tarif vert)
 - Raccordement en HTA sous 15 ou 20kV : 3P Obligation de mettre un poste HT et un transformateur.
 - Raccordement en HTB si U > à 20kV (RTE)
 
@@ -101,8 +101,8 @@ La question se pose de repartir de là pour tirer un cable BT jusqu'à l'endroit
 
 Ce sont les câbles BT qui sont les plus cher, j'amène donc la HT au plus près de l'installation
 
-- Si Enedis (limite de propriété) est loin, je prévilégie de tirer du câble HT (moins cher) et met mon transfo à l'intérieur : ==Je dois prévoir une loge transfo==
-- Si je ne suis pas loin du poste de livraison (Enedis), je fais mon transfo en préfa à la limite de propriété car peu de câble à tirer : ==moins cher en m²==
+- Si Enedis (limite de propriété) est loin, je privilégie de tirer du câble HT (moins cher) et met mon transfo à l'intérieur : **Je dois prévoir une loge transfo**
+- Si je ne suis pas loin du poste de livraison (Enedis), je fais mon transfo en préfa à la limite de propriété car peu de câble à tirer : **moins cher en m²**
 
 #### Section de câble
 
@@ -119,7 +119,7 @@ Ce sont les câbles BT qui sont les plus cher, j'amène donc la HT au plus près
 3. Dans un fourreau : Réchauffe l'air dans la gaine, monte en température
 4. En caniveau soit ventilé soit non
 
-Selon la puissance on peut augmenter la section du cable ==ou== ton nombre de câbles 
+Selon la puissance on peut augmenter la section du cable **ou** ton nombre de câbles 
 Mais la norme oblige à ne jamais dépasser 4 cables par phase
 
 À section égale tu transportes davantage dans du cuivre que dans de l'alu mais le cuivre est beaucoup plus cher
