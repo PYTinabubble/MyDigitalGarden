@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "fr-FR",
     baseUrl: "pytinabubble.github.io/MyDigitalGarden",
-    ignorePatterns: ["private", "templates", ".obsidian", "assets"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
