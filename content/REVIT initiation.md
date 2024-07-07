@@ -6,7 +6,7 @@ tags:
   - autodesk
   - formation
 ---
-# Famille
+## Famille
 
 ![[Revit_familles.excalidraw.png]]
 
@@ -29,7 +29,7 @@ Extensions fichiers Revit :
 .rte : Gabarit de projet
 .rft : Gabarit de famille
 
-# Interface de Revit
+## Interface de Revit
 - Projet :
 	- Nouveau : appeller un gabarit (préconfig différentes selon gabarit)
 	- Ouvrir : va chercher un projet
@@ -42,7 +42,7 @@ Extensions fichiers Revit :
 
 Il faut installer les version des logiciels antérieurs pour pouvoir enregistrer en version antérieures
 
-## Le logiciel
+### Le logiciel
 
 Onglets de "architecture" à "système" c'est de la 3D
 Annoter n'est que de la 2D
@@ -78,7 +78,7 @@ Dans propriété de la vue :
 
 Barre accès rapide avant dernier bouton sert a fermer tous les onglets de vues ouverts sauf celui en cours (seulement si les vues sont affichées en onglet et non en mosaïque)
 
-## Selection
+### Selection
 
 Comme ACAD
 Après une sélection l'icone filtre (entonnoir) apparait et permet de filtrer les objets de la selection en cours.
@@ -88,15 +88,15 @@ Quand je survolle un objet et clique sur TAB :
 - sélectionne toutes les lignes d'une polyligne
 - clique gauche pour sélectionner l'objet trouvé avec TAB
 
-## Vues
+### Vues
 
 >[!Warning] Bien penser à double-cliquer sur la vue dans l'arborescence, un seul clique ne l'ouvre pas et nous n'avons donc pas changé de vue.
 
-### Masquer/isoler
+#### Masquer/isoler
 
 >[!Attention] Dupliquer la vue avant changement
 
-#### Isoler
+##### Isoler
 
 Sélectionner l'objet
 - icone "Lunettes" en bas à droite
@@ -106,7 +106,7 @@ Sélectionner l'objet
 			- On peut restaurer une fois la tâche terminée
 			- On peut appliquer pour créer une vue de l'objet isolé par exemple
 
-#### Masquer
+##### Masquer
 
 Sélectionner l'objet
 - Icone "lunettes" icone "Lunettes" en bas à droite
@@ -132,7 +132,7 @@ Si on perd la vue {3D} dans l'arborescence :
 	- vue 3D
 		- vue 3D par défaut
 
-## Coupes
+### Coupes
 
 Aller dans l'onglet VUE, cliquer sur "Coupes" (que sur les vues en plan et en élévation)
 
@@ -142,7 +142,7 @@ Dans propriété de la coupe on peut décider à quelle échelle le trait de cou
 
 On peut dupliquer une vue pour avoir plusieurs échelles (les échelles sont en bas à gauche de la vue)
 
-## Styles
+### Styles
 
 Changer les épaisseurs de ligne :
 Dans onglet "Gérer"
@@ -193,7 +193,7 @@ Pour supprimer les lignes cachées même manips mais depuis :
 
 Possibilité de changer le style des lignes cachées dans VV
 
-# Créer des lignes 
+## Créer des lignes 
 
 - Gerer
 	- Parametre supplémentaire 
@@ -222,7 +222,7 @@ On utilise les cotations qui apparaissent lorsque l'on sélectionne un segment p
 
 Sous le ruban : "décalage" permet de tracé avec un décalage : en pointillé on voit le tracé de la souris et en décalé de la valeur entrée on voit la ligne
 
-# Dupliquer
+## Dupliquer
 
 **Dupliquer** une vue la duplique **sans détail à savoir sans annotation**
 **Dupliquer avec les détails** permet de récupérer également les annotations
@@ -231,13 +231,13 @@ Elles ne sont pas pour autant inter-dépendance
 
 >[!warning] dorénavant toutes les annotations créées seront à nouveau propre à la vue 
 
-# Enregistrer sous
+## Enregistrer sous
 
 Dans la fenêtre d'enregistrement :
 - "option..." au dessus de "annuler"
 	- Nombre de version de fichier a chaque ctrl+s
 
-# Murs
+## Murs
 
 Mur architectural : Mur non porteur, associé a un niveau et monte vers un niveau supérieur
 Mur porteur : mur qui se dirige vers une niveau inférieur
@@ -267,13 +267,13 @@ On pose la souris sur la ligne et en glissant la souris on choisit intérieur/ex
 
 >[!note] Avantage : le mur est dessiné dans le bon sens (sens horaire)
 
-## Modifier le profil 
+### Modifier le profil 
 
 Sélectionner un mur et cliquer sur "modifier le profil" 
 Ne peut se faire qu'en élévation 
 Ouvre le mode esquisse et permet de modifier les arrêtes du mur ou ajouter des ouverture avec les outils de dessin (cercle par ex)
 
-# Quadrillages & fils
+## Quadrillages & fils
 
 Ils se trouvent dans architecture
 
@@ -295,7 +295,7 @@ Afficher des fils selon le niveau :
 			- Pour améliorer l'affichage en 2D à savoir ne pas voir le fil modifié a une hauteur différente sur l'élévation 
 				- Cliquer sur "3D" pour passer en "2D" et le remonter: il est désormais afficher normalement dans sa vue 2D
 
-## modifier le style
+### modifier le style
 
 Dans fenêtre propriété du fil séléctionné :
 - cliquer sur "modifier le type" 
@@ -308,18 +308,18 @@ Pour ne pas afficher le segment central (que les bulles) et alléger le plan :
 	- "Segment central"
 		- "Aucun"
 
-## Entrer dans le mode esquisse pour faire du quadrillage complexe
+### Entrer dans le mode esquisse pour faire du quadrillage complexe
 
 Une fois quadrillage sélectionné : cliquer sur "segments multiples"
 On entre en mode esquisse (dans le ruban on voit la validation de l'esquisse), le tracé est en rose
 
 On peut utiliser la ligne verte des outils de dessin pour sélectionner avec TAB tous mes murs par exemple.
 
-# modifier tous les objets dans même type dans un projet
+## modifier tous les objets dans même type dans un projet
 
 Clique droit sur un élément du type puis "sélectionner toutes les occurrences"
 
-# Outils de modification
+## Outils de modification
 
 Utiliser le ruban d'option pour :
 - contraindre
@@ -354,7 +354,7 @@ Pour recoller le mur il faut :
 2. Cliquer sur le "T" autorisant la jonction 
 3. Étirer une partie vers l'autre
 
-# Contraintes
+## Contraintes
 
 Afficher les contraintes en rouge :
 - barre de modification de vue (en bas à gauche)
@@ -362,7 +362,7 @@ Afficher les contraintes en rouge :
 
 Permet de voir toutes les contraintes présentes dans la vue et de les modifier ou comprendre le comportement des objets.
 
-## Réseau
+### Réseau
 
 Travailler avec le ruban d'option
 Linéaire ou radiale : comme son nom l'indique
@@ -389,7 +389,7 @@ Si je dois modifier un paramètre d'un objet du réseau, je dois rentrer dans le
 			- Je modifie le paramètre (par exemple hauteur du mur ou section : inclinée, angle :5°)
 				- Je valide mon esquisse et tous les murs du réseau sont modifiés
 
-# Modifier une [[REVIT_Famille|famille]]
+## Modifier une [[REVIT_Famille|famille]]
 
 **Annotations** : il faut ouvrir la famille dans Revit
 **Objet** : 
@@ -398,7 +398,7 @@ Si je dois modifier un paramètre d'un objet du réseau, je dois rentrer dans le
 	- "Edition"
 **Familles système** : changer le type
 
-# Les côtes 
+## Les côtes 
 
 Onglet "Annotation"
 
@@ -426,7 +426,7 @@ on peut "modifier les lignes d'attaches" pour en ajouter en cliquant sur un él�
 
 Isoler l'objet peut permettre de côter plus facilement (pour les dessins complexes)
 
-### modifier le type de côte
+#### modifier le type de côte
 
 >[!warning] Dupliquer le type !
 
@@ -459,7 +459,7 @@ Pour ça changer le type (dupliquer !) Et "Référence de l'élévation" et pass
 Choisir ensuite dans les propriétés la base relative 
 (Pour indiquer du texte devant, dans modifier le type > unités principales > entrer le texte dans indicateur
 
-# Hachurage : Zone de pochage / Zone de masquage
+## Hachurage : Zone de pochage / Zone de masquage
 
 Ne se voit que dans la vue où elle a été créée 
 Ne se voit pas en 3D
@@ -471,7 +471,7 @@ On entre dans l'esquisse pour tracer notre zone de hachures
 >[!note] Pour ne pas voir le contour de la zone de masquage mettre type de ligne invisible
 >Si l'ont veut qu'une partie du contour, scinder le contour en plusieurs parties et changer le type de ligne de chaque partie (invisible ou non)
 
-# Point de base du projet et point topo
+## Point de base du projet et point topo
 
 De base que dans la vue plan masse
 Réaffirmer soit par l'ampoule soit par **VV**
@@ -480,7 +480,7 @@ Point de base du dessin (0,0) du projet.
 
 ---
 
-# [[REVIT_2022-10-25#Les côtes|Côtes]] de mur 
+## Côtes de mur 
 
 Lorsque l'on fait une côte du mur entier il faut "jouer" avec la côte : Revit changera la côte selon l'endroit où elle est (extérieur à intérieur, intérieur à intérieur, etc..)
 
@@ -488,12 +488,12 @@ Comment bien gérer les côtes temporaires pour redimensionner :
 >[!hint] Je sélectionne le mur que je veux bouger et qui est "perpendiculaire" au mur que je veux modifier (celui que j'agrandis ou rétréci) > la côte temporaire "utile" apparaît 
 
 ---
-# Elevation
+## Elevation
 
 En plan : sélectionner un symbôle d'élévation pour choisir le cadre de visibilité
 >[!warning] bouger le symbole élévation avec l'outil déplacer sinon le cadre de vue bouge avec
 
-## Créer une élévation
+### Créer une élévation
 
 onglet "vue" > Elevation
 Dans arborescence d'élévation une nouvelle vue apparaît 
@@ -502,7 +502,7 @@ Dans arborescence d'élévation une nouvelle vue apparaît
 
 ---
 
-# Les sols
+## Les sols
 
 Onglet "Architecture" > Sol 
 
@@ -528,7 +528,7 @@ En bas à droite de la fenêtre "activer/désactiver la sélection par face" per
 
 ---
 
-# Création d'un niveau
+## Création d'un niveau
 
 Ne fonctionne qu'en élévation
 Onglet "architecture" > "Niveau"
@@ -543,7 +543,7 @@ Je peux copier un niveau existant (plus intuitif) mais je crois recréer les vue
 
 ---
 
-# Monter un niveau
+## Monter un niveau
 
 Dans la vue en plan d'un niveau supérieur, on voit en fond le niveau inférieur
 - on peut changer ça dans les propriétés de la vue
@@ -560,11 +560,11 @@ On peut copier/coller un autre niveau (du moins les objet copier)
 
 ---
 
-# Créer un toit
+## Créer un toit
 
 Le toit est attaché au niveau supérieur même si les murs ne sont pas contraints au niveau supérieur
 
-## Toit par tracé
+### Toit par tracé
 
 - dans la vue en plan du niveau sup
 	- Lance l'esquisse
@@ -583,7 +583,7 @@ Plage de vue > modifé
 **Plan de coupe** : par défaut à 1,20m 
 - il s'agit de la hauteur à laquelle revit arrête d'afficher les éléments dans la **vue en plan**
 
-## Toit par extrusion
+### Toit par extrusion
 
 On dessine une ligne et c'est cette ligne qui va s'extruder
 
@@ -596,7 +596,7 @@ Reste a "attacher" les murs au toit :
 
 ---
 
-# Les menuiseries
+## Les menuiseries
 
 >[!hint] passer par onglet "insérer" > famille autodesk : bibliothèque de famille
 
@@ -606,14 +606,14 @@ Pour changer la façade d'une porte ou fenêtre (placer la fenêtre sur une autr
 
 ---
 
-# Cage d'escalier
+## Cage d'escalier
 
 
 Onglet "architecture" > Cage
 
 Mode esquisse pour tracer la cage et la contraindre en niveau bas et niveau haut (traverse tous les étages)
 
-## Créer un escalier
+### Créer un escalier
 
 Ruban d'options 
 Ligne de justification, on choisit où se place l'escalier par rapport à son support
@@ -654,7 +654,7 @@ Profil de marche modifiable par familles de profil
 
 ---
 
-# Les gardes corps
+## Les gardes corps
 
 Onglet "Architecture" > "gardes-corps"
 
@@ -671,7 +671,7 @@ Dérouler :
 
 ---
 
-# Composition des murs
+## Composition des murs
 
 >[!warning] Dupliquer le type
 
@@ -712,14 +712,14 @@ Dans composition du mur : en bas a droite "vue" :
 	- Fusionner après une scission
 		- Cliquer sur "fusionner" puis sur le trait de scission 
 
-## modifier matériau Dalle
+### modifier matériau Dalle
 
 Attacher les géométries 
 - Attacher le mur sup à la dalle
 - Attacher le mur inf à la dalle
 - Attacher le mur sup au mur inf
 
-## Incliner des sols
+### Incliner des sols
 
 Au moment de l'esquisse (création de la dalle)
 - outil "flêche d'inclinaison"
@@ -727,7 +727,7 @@ Au moment de l'esquisse (création de la dalle)
 		- Dans les propriétés soit je modifie le niveau au bas de la flêche, le niveau du bout de la flêche, le décalage du bas de la flêche par rapport au niveau bas (décalage en hauteur)
 		- Si je fais pas inclinaison attention de mettre le décalage à 0 pour que la face haute de la dalle parte a 0 sinon démarrage dalle 30 com au dessus du niveau
 
-## Rampes
+### Rampes
 
 Création d'un niveau dédié au départ de la rampe
 On donne le niveau de départ et d'arrivée
@@ -742,14 +742,14 @@ A la différence des familles, comme toutes familles système, les murs ne sont 
 
 ---
 
-# Les poteaux
+## Les poteaux
 
 Poser les poteaux, indiquer le niveau bas et le niveau haut. Les éventuels décalages.
 Rentrer dans les propriétés de type pour changer la largeur/diamètre
 
 ---
 
-# les éléments de détail
+## les éléments de détail
 
 Élément 2D représentant de la 3D
 
@@ -765,14 +765,14 @@ Ce qui me permet de le réutiliser
 
 ---
 
-# Annotation générique 
+## Annotation générique 
 
 Onglet "annoter" > "Symbole" au bout du ruban
 Charger le dossier "annotation"
 
 ---
 
-# Vue de détail
+## Vue de détail
 
 A partir d'une vue :
 - onglet "vue" > "Repère"
@@ -781,7 +781,7 @@ A partir d'une vue :
 
 ---
 
-# Vue de légende
+## Vue de légende
 
 Créer une légendre
 

@@ -4,7 +4,7 @@ draft: false
 tags:
   - GoogleSheet
 ---
-# GoogleSheet =Query
+## GoogleSheet =Query
 
 Sources :
 
@@ -46,7 +46,7 @@ WHERE E ='"&(B1)&"' AND G = "&(B2)&"
 GROUP BY C
 ORDER BY C ASC")
 ```
-Ici B1 est du texte et B2 est un nombre. </br>
+Ici B1 est du texte et B2 est un nombre. 
 Pour faire référence à la cellule : **“&cell&”** et s’il s’agit de texte : **‘“&cell&”’**
 
 #GoogleSheet

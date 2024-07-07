@@ -1,26 +1,9 @@
 ---
-auteur: Aske Christiansen
-illustateur: Apolline Etienne
-editeur: Ludonaute
-type: compétitif
-mini: 2
-maxi: 4
-Temps: 40
-difficulté: initié
-interactions: ★★★☆☆
-score: ★★★★☆
+title: Living Forest
+draft: false
 tags:
   - boardgame
-  - deckbuilding
-  - tile-placement
-  - management-ressources
-  - engine-building
-  - stopouencore
-  - objectifs
-  - collection
-draft: false
 ---
-
 ## But du jeu
 Dans Living Forest, vous jouez un Esprit de la nature qui tente de sauver la forêt et son Arbre sacré des attaques incessantes d'Onibi. Il y a trois manières de réussir cette tâche, au choix :
 - en plantant 12 Arbres protecteurs différents,

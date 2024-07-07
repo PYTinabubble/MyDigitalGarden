@@ -1,15 +1,8 @@
 ---
-auteur : Jacob Fryxelus
-illustateur : 
-editeur :
-type : compétitif
-mini : 1
-maxi : 5
-temps : 120
-difficulté : expert
-interactions : ★★☆☆☆
-score : ★★★☆☆
-tags : boardgame, draft, deckbuilding, tile-placement, management-ressources, engine-building
+title: Terraforming Mars
+draft: 
+tags:
+  - boardgame
 ---
 ## Mise en place
 Plateau avec les 3 objectifs (Oceans, Oxygène et Température)
