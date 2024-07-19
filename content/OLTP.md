@@ -9,13 +9,13 @@ Les bases de données OLTP sont conçues pour enregistrer et gérer les transact
 Ils permettent aux organisations de gérer efficacement et en toute simplicité un grand volume de transactions.
 
 ### Caractéristiques
-- **Traitement rapide des transactions :** Les bases de données OLTP traitent un grand nombre de transactions rapidement et efficacement. Ils optimisent le traitement des transactions à grande vitesse, garantissant ==un accès rapide et réactif aux données==.
+- **Traitement rapide des transactions :** Les bases de données OLTP traitent un grand nombre de transactions rapidement et efficacement. Ils optimisent le traitement des transactions à grande vitesse, garantissant un accès rapide et réactif aux données.
 
 - **Utilisation dans les systèmes transactionnels :** Les organisations utilisent couramment les systèmes OLTP dans les systèmes transactionnels qui nécessitent un accès et une récupération rapides des données pour traiter de gros volumes de petites transactions.
 
 - **Volume élevé de petites transactions :** Les bases de données OLTP sont conçues pour gérer un volume élevé de petites transactions. Ces transactions impliquent généralement l'insertion, la mise à jour ou la suppression de petites quantités de données.
 
-- **Structure de données ==normalisée== :** Les bases de données OLTP ont une structure de données normalisée. Cela signifie qu'ils utilisent un modèle de données qui minimise la redondance et garantit la cohérence des données. Cela se traduit par un stockage et une récupération efficaces des données.
+- **Structure de données normalisée :** Les bases de données OLTP ont une structure de données normalisée. Cela signifie qu'ils utilisent un modèle de données qui minimise la redondance et garantit la cohérence des données. Cela se traduit par un stockage et une récupération efficaces des données.
 
 - **Optimisé pour les opérations d'écriture :** Les systèmes OLTP optimisent les opérations d'écriture, leur permettant de gérer efficacement un grand nombre d'insertions, de mises à jour et de suppressions de données. Ceci est essentiel pour les applications qui nécessitent des mises à jour des données en temps réel.
 
