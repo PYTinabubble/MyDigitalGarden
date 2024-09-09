@@ -22,7 +22,7 @@ Julien | Belgique |
 
 ### Dénormalisées (OLAP)
 
-La donnée sert à l'analyse complexe, permet de comprendre ou prendre des décision
+La donnée sert à l'analyse complexe, permet de comprendre ou prendre des décisions
 
 Nom | Adresse 1 | Adresse 2 |
 | --- | ------ | --------- |
